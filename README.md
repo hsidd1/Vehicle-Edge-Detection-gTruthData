@@ -14,7 +14,7 @@ The labelling session is for 1/4th of the 1 minute video. You can open the sessi
 ### How You Can Use This Session
 First, clone the repository
 ```sh
-git clone https://github.com/hsidd1/nl-gTruthData.git
+git clone https://github.com/hsidd1/Vehicle-Edge-Detection-gTruthData.git
 ```
 Then open the labelling session in MATLAB's Video Labeler App:
 - Open MATLAB
